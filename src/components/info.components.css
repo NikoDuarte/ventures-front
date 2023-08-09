@@ -1,0 +1,17 @@
+.background-card {
+    background-color: #11008B !important;
+}
+
+.card-header-info {
+    background-color: #5B79FF !important;
+    border-radius: 0.5rem 0.5rem 1rem 1rem !important;
+}
+
+.img-radius {
+    border-radius: 100%;
+    border: 2px solid #fff !important;
+}
+
+.text-left-v {
+    text-align: left !important;
+}

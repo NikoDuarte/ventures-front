@@ -1,0 +1,69 @@
+.background-container-options {
+    background-image: url('../images/icon-ellipsis.svg');
+    background-repeat: no-repeat;
+    background-position: right center;
+    background-size: auto 15%;
+}
+
+.background-container-1 {
+    background-color: #229100;
+    background-image: url('../images/icon-exercise.svg');
+    background-repeat: no-repeat;
+    background-position: right center;
+    background-size: auto 100%;
+    border-radius: 0.5rem 0.5rem 0 0 !important;
+}
+
+.background-container-2 {
+    background-color: #0080a7;
+    background-image: url('../images/icon-play.svg');
+    background-repeat: no-repeat;
+    background-position: right center;
+    background-size: auto 100%;
+    border-radius: 0.5rem 0.5rem 0 0 !important;
+}
+
+.background-container-3 {
+    background-color: #dac400;
+    background-image: url('../images/icon-self-care.svg');
+    background-repeat: no-repeat;
+    background-position: right center;
+    background-size: auto 100%;
+    border-radius: 0.5rem 0.5rem 0 0 !important;
+}
+
+.background-container-4 {
+    background-color: #002e91;
+    background-image: url('../images/icon-social.svg');
+    background-repeat: no-repeat;
+    background-position: right center;
+    background-size: auto 100%;
+    border-radius: 0.5rem 0.5rem 0 0 !important;
+}
+
+.background-container-5 {
+    background-color: #910050;
+    background-image: url('../images/icon-study.svg');
+    background-repeat: no-repeat;
+    background-position: right center;
+    background-size: auto 100%;
+    border-radius: 0.5rem 0.5rem 0 0 !important;
+}
+
+.background-container-6 {
+    background-color: #915e00;
+    background-image: url('../images/icon-work.svg');
+    background-repeat: no-repeat;
+    background-position: right center;
+    background-size: auto 100%;
+    border-radius: 0.5rem 0.5rem 0 0 !important;
+}
+
+.background-container-7 {
+    background-color: #313131;
+    background-image: url('../images/bxs-cheese.svg');
+    background-repeat: no-repeat;
+    background-position: right center;
+    background-size: auto 100%;
+    border-radius: 0.5rem 0.5rem 0 0 !important;
+}

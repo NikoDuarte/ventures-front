@@ -1,0 +1,12 @@
+.text-left-v {
+    text-align: left !important;
+}
+
+.background-container {
+    background-color: #229100;
+    background-image: url('../images/icon-exercise.svg');
+    background-repeat: no-repeat;
+    background-position: right center;
+    background-size: auto 100%;
+    border-radius: 0.5rem 0.5rem 0 0 !important;
+}
